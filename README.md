@@ -5,6 +5,8 @@ ASCII (American Standard Code for Information Interchange) is a common encoding 
 This project converts Digital images to ASCII Art.
 
 
+![input](https://user-images.githubusercontent.com/76778888/174254644-570b4ca6-5fcf-4a84-bf87-6f4871a49523.jpg)![output1](https://user-images.githubusercontent.com/76778888/174254891-8a78e0ba-7065-403d-afb4-873a1dc077e2.jpg)![output](https://user-images.githubusercontent.com/76778888/174255295-34f575ef-d70b-4959-bd12-d7ead5828353.png)
+
 ## Steps to Run the Project
 1. Open Vs code and Open file ascii.py.
 2. Open terminal of Vs code and type command "py ascii.py" and run the command.
